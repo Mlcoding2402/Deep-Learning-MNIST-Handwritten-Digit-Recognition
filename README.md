@@ -1,6 +1,6 @@
 # Deep-Learning-MNIST-Handwritten-Digit-Recognition  using CNN
 
-This priject uses a Convolutional Neural Network (CNN) bulit with TensorFlow/Keras to classify handwrutten digits from the MNIST dataset.
+This project uses a Convolutional Neural Network (CNN) bulit with TensorFlow/Keras to classify handwritten digits from the MNIST dataset.
 
 ## Features
 - Data preprocessing using Pandas and Numpy
